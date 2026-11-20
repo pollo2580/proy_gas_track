@@ -9,3 +9,5 @@ Detectar fuga de gas atraves de 4 sensores
 - ESP32
 - STM32
 ## Descripción
+
+Nosotros somos GasTrack una empresa que se preocupa por los accidentes que genera al no percatarnos de una fuga de gas
