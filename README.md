@@ -2,7 +2,7 @@
 # Proyecto A
 
 ## Objetivos
-Fuga de gas
+Detectar fuga de gas atraves de 4 sensores 
 
 ## Requerimentos
 - Python 3
