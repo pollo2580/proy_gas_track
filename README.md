@@ -1,7 +1,7 @@
 
 # Proyecto A
 
-## Objeetivos
+## Objetivos
 Fuga de gas
 
 ## Requerimentos
